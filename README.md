@@ -8,7 +8,7 @@
     </a>
     <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="[https://github-profile-trophy.vercel.app/?username=mahdihaouari2020&row=4&theme=onedark&no-frame=true](https://github-profile-trophy.vercel.app/?username=ryo-ma](https://trophygithubreadmelang.cybee.dpdns.org/?username=MahdiHaouari&theme=onedark)"/>
+        <img width="98%" alt="Trophy" src="https://trophygithubreadmelang.cybee.dpdns.org/?username=MahdiHaouari&theme=onedark"/>
     </a>    
     </a>
 </div>
