@@ -8,7 +8,10 @@
     </a>
     <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mahdihaouari2020&row=4&theme=onedark&no-frame=true"/>
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mahdihaouari2020&row=4&theme=onedark&no-frame=true](https://github-profile-trophy.vercel.app/?username=ryo-ma"/>
     </a>    
     </a>
 </div>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
